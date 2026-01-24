@@ -36,11 +36,7 @@ export default function Home() {
 
         <div className="mx-auto max-w-7xl px-6 lg:px-8 text-center relative">
           <div className="mx-auto max-w-2xl">
-            <div className="mb-8 flex justify-center">
-              <div className="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20 dark:text-gray-300 dark:ring-gray-700 dark:hover:ring-gray-600">
-                Newly updated with React 19 & Next.js 15.
-              </div>
-            </div>
+
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
               Master your sleep, <br />
               <span className="text-indigo-600">master your life.</span>
